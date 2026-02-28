@@ -7,6 +7,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ## Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+
 ![Data Architecture](docs/data_architechture.png)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into MySQL Database.
@@ -57,3 +58,9 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making. 
+
+
+### **Want to Work wit me?**
+
+Just email me at: 
+## rizwanfordata@gmail.com
