@@ -12,7 +12,7 @@ Script purpose:
 -- Checking for Nulls or duplicates in Primary key
 -- Expectation: No result
 
-SELECT 
+SELECT
 cst_id, COUNT(*) 
 FROM s_crm_cust_info
 GROUP BY cst_id
